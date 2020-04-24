@@ -8,3 +8,6 @@
 # Supported AFUs
 1. AFP
 2. LPC
+
+# Ignore the following
+Practice update submodule hardware/oc-bip within the context of main project oc-accel.  Commit/push should go to LanceThompson fork.
